@@ -1,27 +1,23 @@
 {
   "tittle": "Изучение Golang",
   "link": "https://raw.githubusercontent.com/Red-Sock/ReDocs/main",
-  "basicPage": "Introduction",
+  "basicPage": "Изучение golang",
   "sections": [
     {
-      "name": "Introduction",
-      "link": "/README.md"
-    },
-    {
-      "name": "Usage",
+      "name": "Память",
       "link": "/docs",
       "inner": [
         {
-          "name": "Static sites",
-          "link": "/static_site.md"
+          "name": "Как устроена память",
+          "link": "/memory.md"
         },
         {
-          "name": "Dynamic sites",
-          "link": "/dynamic_site.md"
+          "name": "Как устроен стэк",
+          "link": "/stack.md"
         },
         {
-          "name": "Home",
-          "link": "/home.md"
+          "name": "Как устроена куча",
+          "link": "/heap.md"
         }
       ]
     }

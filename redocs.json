@@ -5,7 +5,7 @@
   "sections": [
     {
       "name": "Golang",
-      "link": "/readme.md"
+      "link": "/Golang.md"
     },
     {
       "name": "Memory",

@@ -9,6 +9,9 @@ on:
       redocs_config:
         description: "URL to redocs config"
         default: ""
+  push:
+    branches:
+      - master
 jobs:
   ReDocs-launch:
     runs-on: ubuntu-latest

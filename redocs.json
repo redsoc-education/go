@@ -4,6 +4,10 @@
   "basicPage": "Изучение golang",
   "sections": [
     {
+      "name": "Изучение golang",
+      "link": "/Изучение golang.md"
+    },
+    {
       "name": "Память",
       "link": "/Память",
       "inner": [

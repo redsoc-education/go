@@ -1,26 +1,26 @@
 {
   "tittle": "Изучение Golang",
   "link": "https://raw.githubusercontent.com/redsoc-education/go/master",
-  "basicPage": "Изучение golang",
+  "basicPage": "Golang",
   "sections": [
     {
-      "name": "Изучение golang",
-      "link": "/Изучение_golang.md"
+      "name": "Golang",
+      "link": "/readme.md"
     },
     {
-      "name": "Память",
-      "link": "/Память",
+      "name": "Memory",
+      "link": "/memory",
       "inner": [
         {
-          "name": "Как устроена память",
-          "link": "/memory.md"
+          "name": "Memory",
+          "link": "/readme.md"
         },
         {
-          "name": "Как устроен стэк",
+          "name": "Stack",
           "link": "/stack.md"
         },
         {
-          "name": "Как устроена куча",
+          "name": "Heap",
           "link": "/heap.md"
         }
       ]

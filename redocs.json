@@ -1,11 +1,11 @@
 {
   "tittle": "Изучение Golang",
-  "link": "https://raw.githubusercontent.com/Red-Sock/ReDocs/main",
+  "link": "https://raw.githubusercontent.com/redsoc-education/go/main",
   "basicPage": "Изучение golang",
   "sections": [
     {
       "name": "Память",
-      "link": "/docs",
+      "link": "/Память",
       "inner": [
         {
           "name": "Как устроена память",
